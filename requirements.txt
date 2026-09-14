@@ -1,0 +1,2 @@
+# SOCIONAVIK uses only Python's standard library for local serving.
+# No third-party Python packages are required.

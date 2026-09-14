@@ -1,0 +1,17 @@
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Python local development
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Vercel local metadata
+.vercel/
+
+# Generated static deployment copy
+socionavik-vercel/
